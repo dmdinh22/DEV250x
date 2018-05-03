@@ -32,7 +32,7 @@ namespace MyApp.Models
         [Column("address_id")]
         public ushort AddressId { get; set; }
         [Column("active", TypeName = "tinyint(1)")]
-        public sbyte Active { get; set; }
+        public byte Active { get; set; }
         [Column("create_date", TypeName = "datetime")]
         public DateTime CreateDate { get; set; }
         [Column("last_update", TypeName = "timestamp")]

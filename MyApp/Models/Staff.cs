@@ -34,7 +34,7 @@ namespace MyApp.Models
         [Column("store_id")]
         public byte StoreId { get; set; }
         [Column("active", TypeName = "tinyint(1)")]
-        public sbyte Active { get; set; }
+        public byte Active { get; set; }
         [Required]
         [Column("username")]
         [StringLength(16)]
