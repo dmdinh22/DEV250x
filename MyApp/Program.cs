@@ -22,8 +22,6 @@ namespace MyApp
             var city = new City() { CityId = 1001, City1 = "Redmond", CountryId = 103 };
             dbContext.Add(city);
             dbContext.SaveChanges();
-
-            
         }
     }
 }
