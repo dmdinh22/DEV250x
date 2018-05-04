@@ -9,6 +9,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+            // get record
             var dbContext = new sakilaContext();
             var records = dbContext.Film.Include(f => f.FilmActor).ThenInclude(r => r.Actor).ToList();
             foreach (var record in records) {
@@ -18,10 +19,17 @@ namespace MyApp
                     System.Console.WriteLine($"\tActor {counter++}: {fa.Actor.FirstName} {fa.Actor.LastName}");
                 }
             }
-
-            var city = new City() { CityId = 1001, City1 = "Redmond", CountryId = 103 };
-            dbContext.Add(city);
-            dbContext.SaveChanges();
+            // add record
+            // var city = new City() { CityId = 1001, Name = "Redmond", CountryId = 103 };
+            // dbContext.Add(city);
+            // dbContext.SaveChanges();
+            // update record
+            var uTarget = dbContext.City.SingleOrDefault(c => c.CityId == 1001);
+            if (uTarget != null) {
+                uTarget.Name = "Kirkland";  // change Name to City1 if you did not update the City class file
+                dbContext.Update(uTarget);
+                dbContext.SaveChanges();
+            }
         }
     }
 }
