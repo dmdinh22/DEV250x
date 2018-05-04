@@ -26,8 +26,14 @@ namespace MyApp
             // update record
             var uTarget = dbContext.City.SingleOrDefault(c => c.CityId == 1001);
             if (uTarget != null) {
-                uTarget.Name = "Kirkland";  // change Name to City1 if you did not update the City class file
+                uTarget.Name = "Kirkland"; 
                 dbContext.Update(uTarget);
+                dbContext.SaveChanges();
+            }
+
+            var dTarget = dbContext.City.SingleOrDefault(c => c.CityId == 1001);
+            if (dTarget != null) {
+                dbContext.Remove(dTarget);
                 dbContext.SaveChanges();
             }
         }
