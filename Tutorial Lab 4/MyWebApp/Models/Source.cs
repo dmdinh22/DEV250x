@@ -2,6 +2,7 @@ using System.Collections.Generic;
 
 namespace MyWebApp.Models 
 {
+    // film domain model
     public class Film 
     {
         public int ID { get; set; }
@@ -11,6 +12,7 @@ namespace MyWebApp.Models
         public bool IsInStore { get; set; }
     }
 
+    // data transfer object
     public class CreateOrUpdateDTO 
     {
         public int ID { get; set; }
@@ -21,6 +23,7 @@ namespace MyWebApp.Models
         public Operation Operation { get; set; }
     }
 
+    // genre enum mapping
     public enum Genre 
     {
         Action,
@@ -30,6 +33,7 @@ namespace MyWebApp.Models
         War
     }
 
+    // operation enum mapping
     public enum Operation 
      {
         Create,

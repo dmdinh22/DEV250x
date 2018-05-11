@@ -6,7 +6,7 @@ namespace MyWebApp.Controllers {
         [HttpGet]
         public IActionResult Create() {
             return View();
-        }
+        } // Create View
 
         [HttpPost]
         public IActionResult Create(Film film) {
@@ -16,12 +16,12 @@ namespace MyWebApp.Controllers {
             } else {
                 return View("Error");
             }
-        }
+        } //Create
 
         [HttpGet]
         public IActionResult Update() {
             return View();
-        }
+        } //Update View
 
         [HttpPost]
         public IActionResult Update(Film film) {
@@ -31,6 +31,6 @@ namespace MyWebApp.Controllers {
             } else {
                 return View("Error");
             }
-        }
+        } //Update V
     }
 }
