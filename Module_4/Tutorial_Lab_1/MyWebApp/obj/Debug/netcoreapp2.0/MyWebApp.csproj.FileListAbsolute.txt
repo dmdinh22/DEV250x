@@ -1,0 +1,11 @@
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csprojResolveAssemblyReference.cache
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.deps.json
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.json
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.dev.json
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Users\ddinh\Downloads\Lab_Starter_Files\Lab_Starter_Files\Module_4\Tutorial_Lab_1\Start\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb
