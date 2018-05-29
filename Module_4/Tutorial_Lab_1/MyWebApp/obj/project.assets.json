@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "c:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "C:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\ddinh\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\obj\\",
+      "outputPath": "C:\\Users\\ddinh\\Projects\\Module_4\\Tutorial_Lab_1\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
