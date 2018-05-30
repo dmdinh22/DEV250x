@@ -8,3 +8,4 @@ C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductMana
 C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.AssemblyInfo.cs
 C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.dll
 C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.pdb
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.csprojResolveAssemblyReference.cache
