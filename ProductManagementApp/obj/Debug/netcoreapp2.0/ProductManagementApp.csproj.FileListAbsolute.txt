@@ -1,0 +1,10 @@
+C:\Users\ddinh\Projects\ProductManagementApp\bin\Debug\netcoreapp2.0\ProductManagementApp.deps.json
+C:\Users\ddinh\Projects\ProductManagementApp\bin\Debug\netcoreapp2.0\ProductManagementApp.runtimeconfig.json
+C:\Users\ddinh\Projects\ProductManagementApp\bin\Debug\netcoreapp2.0\ProductManagementApp.runtimeconfig.dev.json
+C:\Users\ddinh\Projects\ProductManagementApp\bin\Debug\netcoreapp2.0\ProductManagementApp.dll
+C:\Users\ddinh\Projects\ProductManagementApp\bin\Debug\netcoreapp2.0\ProductManagementApp.pdb
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.AssemblyInfoInputs.cache
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.AssemblyInfo.cs
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.dll
+C:\Users\ddinh\Projects\ProductManagementApp\obj\Debug\netcoreapp2.0\ProductManagementApp.pdb
