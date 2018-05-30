@@ -3,6 +3,7 @@
     <h1>Country List</h1>
     <table border="1">
         <tr>
+            <th>Update</th>
             <th>Nation Flag</th>
             <th>Code</th>
             <th>Name</th>
@@ -10,6 +11,7 @@
         </tr>
         @foreach(var c in Model){
             <tr>
+                <td>@Html.ActionLink("Update", "UpdateNationalFlag", new {code=c.Code})</td>
                 <td><img src="@c.NationalFlagPath"/></td>
                 <td>@c.Code</td>
                 <td>@c.Name</td>
